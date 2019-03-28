@@ -38,7 +38,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="sound on"/>
                                 <connections>
-                                    <action selector="soundButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6KG-uf-y2o"/>
+                                    <action selector="alertMe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yv6-ye-R0p"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C8O-0K-lDV">

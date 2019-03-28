@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3DA8B74D224D4F8400F312E6 /* sound in Resources */ = {isa = PBXBuildFile; fileRef = 3DA8B74C224D4F8400F312E6 /* sound */; };
+		3DA8B74F224D7A0500F312E6 /* 05 Beat Cook Up 5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3DA8B74E224D7A0500F312E6 /* 05 Beat Cook Up 5.mp3 */; };
 		3DC406DA224AB640009ED87A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC406D9224AB640009ED87A /* AppDelegate.swift */; };
 		3DC406DC224AB640009ED87A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC406DB224AB640009ED87A /* ViewController.swift */; };
 		3DC406DF224AB640009ED87A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DC406DD224AB640009ED87A /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		3DA8B74C224D4F8400F312E6 /* sound */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sound; path = ../../sound; sourceTree = "<group>"; };
+		3DA8B74E224D7A0500F312E6 /* 05 Beat Cook Up 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "05 Beat Cook Up 5.mp3"; path = "../../sound/05 Beat Cook Up 5.mp3"; sourceTree = "<group>"; };
 		3DC406D6224AB640009ED87A /* 4thproject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 4thproject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DC406D9224AB640009ED87A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DC406DB224AB640009ED87A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				3DC406E0224AB641009ED87A /* Assets.xcassets */,
 				3DC406E2224AB641009ED87A /* LaunchScreen.storyboard */,
 				3DC406E5224AB641009ED87A /* Info.plist */,
+				3DA8B74E224D7A0500F312E6 /* 05 Beat Cook Up 5.mp3 */,
 				3DA8B74C224D4F8400F312E6 /* sound */,
 			);
 			path = 4thproject;
@@ -128,6 +131,7 @@
 				3DC406E4224AB641009ED87A /* LaunchScreen.storyboard in Resources */,
 				3DC406E1224AB641009ED87A /* Assets.xcassets in Resources */,
 				3DA8B74D224D4F8400F312E6 /* sound in Resources */,
+				3DA8B74F224D7A0500F312E6 /* 05 Beat Cook Up 5.mp3 in Resources */,
 				3DC406DF224AB640009ED87A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
